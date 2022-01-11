@@ -1,0 +1,19 @@
+{
+  "name": "ckeditor5-build-haint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haintdev1102/ckeditor5-build-haint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haintdev1102/ckeditor5-build-haint/issues"
+  },
+  "homepage": "https://github.com/haintdev1102/ckeditor5-build-haint#readme"
+}
